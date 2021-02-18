@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN HERE", 
+    "password": "PASSWORD", 
+    "prefix": "x",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://www.twitch.tv/mantahe",
+    "tts_language": "en"
+}
